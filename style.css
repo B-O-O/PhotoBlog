@@ -1,4 +1,17 @@
+
+body {
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
 img{
     width: 30%;
     margin: calc(10%/6);
+}
+nav{
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
 }
